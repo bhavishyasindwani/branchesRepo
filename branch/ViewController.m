@@ -23,7 +23,8 @@
 
 -(void) prepareView
 {
-    
+    // akjcksnck  bjbcbscsd
+    NSLog(@"Testing");
 }
 
 - (void)didReceiveMemoryWarning {
