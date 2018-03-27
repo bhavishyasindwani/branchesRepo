@@ -14,11 +14,17 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
+    [self prepareView];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+-(void) prepareView
+{
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
